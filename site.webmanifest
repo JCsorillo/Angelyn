@@ -1,0 +1,38 @@
+{
+    "name": "Angelyn Pet Care",
+    "short_name": "Pet Care",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#252525",
+    "description": "A blog dedicated to pet care, providing tips and advice for pet owners.",
+    "icons": [
+      {
+        "src": "favicon-32x32.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      },
+      {
+        "src": "favicon-16x16.png",
+        "sizes": "16x16",
+        "type": "image/png"
+      },
+      {
+        "src": "apple-touch-icon.png",
+        "sizes": "182x182",
+        "type": "image/png"
+      }
+    ],
+    "screenshots": [
+      {
+        "src": "images/screenshot1.png",
+        "sizes": "640x480",
+        "type": "image/png"
+      },
+      {
+        "src": "images/screenshot2.png",
+        "sizes": "640x480",
+        "type": "image/png"
+      }
+    ]
+  }
